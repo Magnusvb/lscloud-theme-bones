@@ -1,5 +1,7 @@
 # Bones - A barebones LemonStand theme
 
+Note: this is an archived version of Bones. You should consider upgrading to v2 or better.
+
 ## Running Gulp
 
 Gulp is a simple build system for web things. It automates compiling Sass, minifying files, and so on.
